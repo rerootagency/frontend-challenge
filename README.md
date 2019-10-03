@@ -1,4 +1,4 @@
-# Frontend Challenge / Pokedex
+# Frontend Challenge / Guess That Pokemon!
 
 In this challenge you will create a fun Pokemon-themed guessing game.
 

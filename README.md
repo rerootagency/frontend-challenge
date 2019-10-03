@@ -4,4 +4,4 @@
 
 ## Challenges
 
-* [Guess that Pokemon!](https://github.com/rerootagency/frontend-challenge/tree/pokedex)
+* [Guess That Pokemon!](https://github.com/rerootagency/frontend-challenge/tree/pokedex)

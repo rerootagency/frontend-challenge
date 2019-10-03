@@ -1,4 +1,6 @@
-# ReRoot Frontend Challenge
+# Frontend Challenge
+
+A collection of challenges for our frontend developer candidates and those who feel like becoming one :)
 
 ---
 

@@ -74,6 +74,7 @@ Need to get in touch?
 
 ## Resources
 
+- [ReRoot Academy / Learn Frontend Development](https://github.com/rerootagency/academy/blob/master/learn-frontend-development.md)
 - [PokeAPI](https://pokeapi.co/)
 - [PokeAPI Documentation](https://pokeapi.co/docs/v2.html) 
 - [List of Pokemon by Kanto Pokedex number (Bulbapedia)](https://bulbapedia.bulbagarden.net/wiki/List_of_Pok%C3%A9mon_by_Kanto_Pok%C3%A9dex_number)

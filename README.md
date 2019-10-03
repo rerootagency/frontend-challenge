@@ -69,7 +69,7 @@ For imaginary bonus points you can:
 
 Need to get in touch?
 
-- [knock-knock@reroot.hr](mailto:knock-knock@reroot.hr) - for questions about anything and everything
+- [info@reroot.hr](mailto:info@reroot.hr) - for questions about anything and everything
 - [domagoj.strekelj@reroot.hr](mailto:domagoj.strekelj@reroot.hr) - for questions about the challenge
 
 ## Resources
@@ -79,3 +79,7 @@ Need to get in touch?
 - [PokeAPI Documentation](https://pokeapi.co/docs/v2.html) 
 - [List of Pokemon by Kanto Pokedex number (Bulbapedia)](https://bulbapedia.bulbagarden.net/wiki/List_of_Pok%C3%A9mon_by_Kanto_Pok%C3%A9dex_number)
 - [Generation I (Bulbapedia)](https://bulbapedia.bulbagarden.net/wiki/Generation_I)
+
+## Legal
+
+Pokémon and Pokémon character names are trademarks of Nintendo.

@@ -10,6 +10,8 @@ The project consists of two main parts - the "Guess that pokemon!" game and the 
 
 ### Guess that pokemon!
 
+<img src="screenshots/pokedex-game.png">
+
 At the start of each round a random pokemon is fetched with an API call. The pokemon's sprite (image) is displayed to the user and the user is prompted to guess the pokemon's name. A correct guess stores the pokemon to the user's pokedex, and an incorrect guess starts the game again by fetching a new random pokemon.
 
 The game should follow these rules:
@@ -19,6 +21,8 @@ The game should follow these rules:
 - Every time a pokemon is guessed correctly the pokedex' progress bar is updated
 
 ### Pokedex
+
+<img src="screenshots/pokedex-pokedex.png">
 
 At any point during the game the user can open his or her pokedex in a popup. The pokedex contains a list of all pokemon in the game. 
 

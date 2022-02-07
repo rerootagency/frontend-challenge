@@ -76,8 +76,7 @@ Don't stress for time and rush to finish, we value quality over quantity. A solu
 
 Need to get in touch?
 
-- ReRoot general ([:email: info@reroot.hr](mailto:info@reroot.hr)) - for questions about anything and everything
-- Domagoj Štrekelj ([:email: domagoj.strekelj@reroot.hr](mailto:domagoj.strekelj@reroot.hr)) - for questions about the challenge
+- ReRoot general ([:email: web@reroot.hr](mailto:web@reroot.hr)) - for questions about anything and everything
 
 ## Resources
 
